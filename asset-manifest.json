@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-curd-management-app/static/css/main.4272c78b.css",
+    "main.js": "/react-curd-management-app/static/js/main.ab931507.js",
+    "static/js/453.f0a26e1d.chunk.js": "/react-curd-management-app/static/js/453.f0a26e1d.chunk.js",
+    "index.html": "/react-curd-management-app/index.html",
+    "main.4272c78b.css.map": "/react-curd-management-app/static/css/main.4272c78b.css.map",
+    "main.ab931507.js.map": "/react-curd-management-app/static/js/main.ab931507.js.map",
+    "453.f0a26e1d.chunk.js.map": "/react-curd-management-app/static/js/453.f0a26e1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4272c78b.css",
+    "static/js/main.ab931507.js"
+  ]
+}
